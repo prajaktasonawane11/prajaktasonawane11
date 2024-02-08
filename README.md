@@ -40,6 +40,6 @@ Join me as we dive into the world of data-driven exploration, shaping the future
 <!-- Adding GitHub and Streak stats -->
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajaktasonawane11&show_icons=true&locale=en&theme=radical" alt="prajaktasonawane11" />
-    <br>/</br>
+    <br></br>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktasonawane11&theme=radical&hide_border=true" alt="prajaktasonawane11" />
 </div>
