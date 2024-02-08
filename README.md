@@ -1,6 +1,6 @@
 <!-- Aligning the header content -->
 <div align="center">
-    <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
+    <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
 <!-- Main content -->
