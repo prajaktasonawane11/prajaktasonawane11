@@ -7,9 +7,9 @@
 # Hello Everyone, I'm PS - The Prajakta Sonawane👋
 
 ### About Me 🧠
-🎓 Currently pursuing a Master's degree in Data Analytics and Information Systems at Texas State University.
-🔍 Dedicated to utilizing data analytics to extract meaningful insights and foster innovation.
-🚀 Enthusiastic about the intersection of machine learning and data engineering, exploring ways to leverage data for impactful solutions.
+- 🎓 Currently pursuing a Master's degree in Data Analytics and Information Systems at Texas State University.
+- 🔍 Dedicated to utilizing data analytics to extract meaningful insights and foster innovation.
+- 🚀 Enthusiastic about the intersection of machine learning and data engineering, exploring ways to leverage data for impactful solutions.
 
 ### 🌐 Let's Stay Connected 🌐
 [![GitHub](https://img.shields.io/badge/-GITHUB-grey?style=for-the-badge&logo=github)](https://github.com/prajaktasonwane11)
@@ -33,4 +33,4 @@
 - Core Competencies: Data Analysis, Visualization, Machine Learning, Tableau, Power BI, Advanced Excel, Azure, AWS
 
 ### 🤝 Let's Collaborate and Innovate Together 🤝
-Join me as we dive into the world of data-driven exploration, shaping the future through collaborative insights and innovative solutions!
+- Join me as we dive into the world of data-driven exploration, shaping the future through collaborative insights and innovative solutions!
