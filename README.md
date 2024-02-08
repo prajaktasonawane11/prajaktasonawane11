@@ -17,27 +17,20 @@
 [![Linkedin](https://img.shields.io/badge/Connect-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prajakta-sonawane-b69409155/) 
 [![Contact](https://img.shields.io/badge/Contact-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.prajaktaks9@gmail.com)
 
-### 🚀 Data Analytics and Data Science Enthusiast 🚀
-- 🌟 Enthusiastic about exploring the vast field of data analytics and data science, employing Python, R, and Java to extract valuable insights.
+### 🚀 Data Science Enthusiast 🚀
+- 🌟 Enthusiastic about exploring the vast field of data analytics and data science, employing Python, R, and SQL to extract valuable insights.
 - 📊 Experienced in harnessing the power of Pandas and Numpy to process and analyze raw data, uncovering actionable insights and trends.
 - 📈 Proficient in crafting captivating and informative visualizations using Matplotlib, Seaborn, Tableau, and Power BI to effectively communicate data-driven stories and discoveries.
 
-### 💼 Supply Chain Expertise 💼
+### 💼 Data Analytics and Supply Chain Expertise 💼
 - 📦 Experienced in utilizing data analytics tools and techniques, including Tableau, Power BI, and advanced Excel, to optimize supply chain operations.
-- 📊 Proficient in SQL for data manipulation and analysis tasks within the supply chain domain.
-- 🌐 Leveraging data-driven insights to enhance supply chain efficiency and effectiveness.
+- 📊 Proficient in SQL for data manipulation and analysis tasks within the supply chain, e-commerce, and finance domain.
+- 🌐 Leveraging data-driven insights to enhance outcome's efficiency and effectiveness.
 
 ### 👨‍💻 Tech Toolbox 👨‍💻
 - Languages & Libraries: Python, R, Java, PySpark, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, PyTorch
-- Databases/Frameworks: MySQL, PostgreSQL, MongoDB, Azure, AWS, Git, Jira, ETL Pipelines, Snowflake, SAP HANA
-- Core Competencies: Data Analysis, Visualization, Machine Learning, Tableau, Power BI, Advanced Excel
+- Databases/Frameworks: MySQL, PostgreSQL, MongoDB, Git, Jira, ETL Pipelines, Snowflake, SAP HANA
+- Core Competencies: Data Analysis, Visualization, Machine Learning, Tableau, Power BI, Advanced Excel, Azure, AWS
 
 ### 🤝 Let's Collaborate and Innovate Together 🤝
 Join me as we dive into the world of data-driven exploration, shaping the future through collaborative insights and innovative solutions!
-
-<!-- Adding GitHub and Streak stats -->
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajaktasonawane11&show_icons=true&locale=en&theme=radical" alt="prajaktasonawane11" />
-    <br></br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktasonawane11&theme=radical&hide_border=true" alt="prajaktasonawane11" />
-</div>
