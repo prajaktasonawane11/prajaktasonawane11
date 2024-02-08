@@ -13,7 +13,7 @@
 
 ### 🌐 Let's Stay Connected 🌐
 [![GitHub](https://img.shields.io/badge/-GITHUB-grey?style=for-the-badge&logo=github)](https://github.com/prajaktasonwane11)
-[![Kaggle](https://img.shields.io/badge/Kaggle-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/)
+[![Kaggle](https://img.shields.io/badge/FollowMe-Kaggle-orange?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/)
 [![Linkedin](https://img.shields.io/badge/Connect-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prajakta-sonawane-b69409155/) 
 [![Contact](https://img.shields.io/badge/Contact-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.prajaktaks9@gmail.com)
 
