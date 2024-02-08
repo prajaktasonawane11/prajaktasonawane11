@@ -6,8 +6,6 @@
 <!-- Main content -->
 # Hello Everyone, I'm PS - The Prajakta Sonawane👋
 
-Data Analysis | Data Science | Data Viz Enthusiast
-
 ### About Me 🧠
 🎓 Currently pursuing a Master's degree in Data Analytics and Information Systems at Texas State University.
 🔍 Dedicated to utilizing data analytics to extract meaningful insights and foster innovation.
